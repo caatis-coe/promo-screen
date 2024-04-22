@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/promo-screen/static/css/main.ff02f4b5.css",
+    "main.js": "/promo-screen/static/js/main.a03a158f.js",
+    "static/js/453.e05eeac0.chunk.js": "/promo-screen/static/js/453.e05eeac0.chunk.js",
+    "static/media/iklan1.mp4": "/promo-screen/static/media/iklan1.2ec8f863fe58e672f5bf.mp4",
+    "index.html": "/promo-screen/index.html",
+    "main.ff02f4b5.css.map": "/promo-screen/static/css/main.ff02f4b5.css.map",
+    "main.a03a158f.js.map": "/promo-screen/static/js/main.a03a158f.js.map",
+    "453.e05eeac0.chunk.js.map": "/promo-screen/static/js/453.e05eeac0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.a03a158f.js"
+  ]
+}
